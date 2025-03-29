@@ -1,18 +1,18 @@
 # 👋 Hi there, I'm CMK!
 
-I'm a software developer with a passion for building applications and exploring new technologies. Currently, I'm working with Rust, Actix Web, and Sea ORM.
+I'm a software engineer passionate about building applications and exploring new technologies. I work with Rust (Actix Web, SeaORM), JavaScript (Vue, Nuxt), TypeScript, Tailwind CSS and Laravel, and I'm currently learning Kotlin and Burn, a deep learning framework.
 
 ## 🌱 Currently Learning
 
-- Python for machine learning and AI tasks
-- Pandas and NumPy
+- Burn for deep learning
+- Kotlin
 
 ## 🚀 Technologies & Tools
 
-- **Languages**: Rust, JavaScript, Python, Kotlin, PHP
-- **Frameworks**: Actix Web, Nuxt 3, Laravel
+- **Languages**: Rust, JavaScript, TypeScript, Kotlin, PHP
+- **Frameworks**: Actix Web, Tauri, Vue, Nuxt, Laravel
 - **Databases**: PostgreSQL, MySQL
-- **Tools**: Docker, GitHub Actions, Vultr, Linode
+- **Tools**: GitHub Actions, Vultr, Linode, DigitalOcean
 
 ## 📫 How to Reach Me
 
